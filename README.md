@@ -66,10 +66,10 @@ I am a **Mechatronics & Embedded Systems Engineer** (Ain Shams University, Class
 
 | Project | Domain | Architecture & Highlights |
 | :--- | :--- | :--- |
-| **Connected IoT Telemetry Pipeline** | Embedded / IoT | Real-time sensor aggregation over BLE GATT & MQTT on ESP32 with power-optimized FreeRTOS tasks. |
-| **Multi-Layer Custom PCB Designs** | Hardware | Production-grade PCBs designed in Altium & KiCad with strict RF layout constraints, ground planes, and EMC compliance. |
-| **Parametric Revit Building Tools** | BIM / Automation | Custom Dynamo scripts & Revit API integrations streamlining parametric scheduling and model quantification. |
-| **Autonomous Multi-Source Radar & Bot Engine** | Automation | 24/7 opportunity ingestion, NLP screening, and automated proposal dispatch across 10 platforms. |
+| [**Revit Automation Suite**](https://github.com/Dragonire9/revit-automation-suite) | BIM / C# .NET | Enterprise add-in: parametric room extraction, collision-free tagging, schedule sync, and hardware-locked licensing. |
+| [**BLE Indoor Localization System**](https://github.com/Dragonire9/ble-indoor-localization-system) | Full-Stack IoT | Turborepo monorepo: ESP32 MQTT telemetry, Express backend, and real-time Next.js 16 monitoring dashboard. |
+| [**Open Ring Firmware Architecture**](https://github.com/Dragonire9/open-Ring-assignment) | Embedded / Firmware | Production-grade C sensor manager, power degradation ladder, and custom BLE GATT contracts. |
+| [**ESP32 BLE Beacon Firmware**](https://github.com/Dragonire9/BLE_Beacon) | Microcontroller / RF | Ultra-low-power (<12µA deep sleep) beacon firmware with ADC battery telemetry and calibrated RSSI. |
 
 👉 **Explore full case studies, schematics, and interactive demos at [mohamedsherif.vercel.app/projects](https://mohamedsherif.vercel.app/projects)**
 
